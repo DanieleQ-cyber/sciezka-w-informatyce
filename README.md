@@ -4,3 +4,4 @@
 ## Umiejętności:
 ## W programowaniu to do pętli jeszcze kumam mniej więcej wszystko przy tablicach juz leze
 ## Jeśli chodzi o zyciowe to załoze i skonfiguruje rejestrator, kamery, switcha, router, ups, kompy, ogarne alarm, przeciwpozarowe alarmy
+## Na studiach kręci mnie głównie temat sieciowy i cyberbezpieczeństwa ale programowanie tez lubie
